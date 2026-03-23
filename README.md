@@ -3,7 +3,9 @@
 
 > **Abdelhamid Beddi** — IT Systems & Networks Technician (TSSR)
 > 📍 Lille, France | 🌍 Open to opportunities in Ireland
-> 📧 [your.email@example.com] | 🔗 [linkedin.com/in/yourprofile]
+> 📧 abhbd59@gmail.com | 🔗 www.linkedin.com/in/abdelhamid-beddi
+
+
 
 ---
 
