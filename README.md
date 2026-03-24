@@ -2,7 +2,7 @@
 # 🖧 Network Infrastructure Lab — Full IT Infrastructure Home Lab
 
 > **Abdelhamid Beddi** — IT Systems & Networks Technician (TSSR)
-> 📍 Lille, France | 🌍 Open to opportunities in Ireland
+> 📍 Lille, France | 🌍 Open to new opportunities
 > 📧 abhbd59@gmail.com | 🔗 www.linkedin.com/in/abdelhamid-beddi
 
 
