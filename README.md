@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/26179508/README.md)
 # 🖧 Network Infrastructure Lab — Full IT Infrastructure Home Lab
 
-> **Abdelhamid Beddi** — IT Systems & Networks Technician (TSSR)
+> **Abdelhamid Beddi** — IT Systems & Networks Technician
 > 📍 Lille, France | 🌍 Open to new opportunities
 > 📧 abhbd59@gmail.com | 🔗 www.linkedin.com/in/abdelhamid-beddi
 
